@@ -1,2 +1,2 @@
 Add a second line edit to first_text.txt
-Add a second file with text
+Second line blah blah blah
